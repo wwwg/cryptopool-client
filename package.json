@@ -1,0 +1,7 @@
+{
+    "name": "cryptopool-client",
+    "version": "1.0.0"
+    "description": "Client for popular cryptonote pool 'nodejs-pool'",
+    "author": "wwwg",
+    "main": "lib/client.js"
+}
